@@ -19,3 +19,5 @@ git merge para unificar branch
 git push origin main/master é para enviar os arquivos do repositório local para o remoto/online
 
 git clone [link do repositório] serve para trabalhar com um projeto já existente
+
+git pull enviar arquivose alterações do repositório remoto para o local
